@@ -2,9 +2,8 @@
 title LocateAnything-3B Web Interface
 setlocal
 
-set VENV_DIR=F:\LocAny\loc_venv
 set PROJECT_DIR=%~dp0
-set PYTHONPATH=%PROJECT_DIR%..;%PYTHONPATH%
+set VENV_DIR=%PROJECT_DIR%venv
 
 echo.
 echo  ========================================
