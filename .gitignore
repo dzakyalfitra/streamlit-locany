@@ -1,0 +1,22 @@
+# Secrets (NEVER commit)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Model cache
+*.bin
+*.safetensors
+
+# Output directories
+output_predictions/
+bulk_predictions/
+
+# OS
+Thumbs.db
+.DS_Store

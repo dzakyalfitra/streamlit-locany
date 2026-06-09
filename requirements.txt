@@ -1,0 +1,10 @@
+# LocateAnything-3B Streamlit Web Interface
+# Python dependencies — install with: pip install -r requirements.txt
+
+streamlit>=1.30.0
+torch
+transformers
+Pillow
+opencv-python
+numpy
+accelerate
