@@ -34,7 +34,7 @@ Upload an image, describe what you're looking for, and get instant bounding boxe
 ### 1. Clone or copy the project
 
 ```powershell
-git clone https://github.com/your-username/streamlit-locany.git
+git clone https://github.com/dzakyalfitra/streamlit-locany.git
 cd streamlit-locany
 ```
 
